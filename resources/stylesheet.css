@@ -1,0 +1,46 @@
+p {
+	font-family: sans-serif;
+	color: #000;
+	font-weight: 500;
+}
+html {
+	background-color: #eee;
+	font-family: sans-serif;
+}
+h1 {
+	color: #000;
+	font-family: sans-serif;
+}
+h2 {
+	color: #000;
+	font-family: sans-serif;
+}
+.content {
+	background-color: #fff;
+	padding: 5px;
+	margin: 2px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	width: 100%;
+}
+ul {
+	list-style-type: none;
+	font-family: sans-serif;
+}
+table {
+	border: 2px solid black;
+}
+tr {
+	border: 1px solid black;
+}
+td {
+	padding-left: 4px;
+	padding-right: 80px;
+}
+.navbar {
+	background-color: #fff;
+	margin: 2px;
+	width: 200px;
+	padding: 4px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
